@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
-I’m currently learning Go and practicing some algorithms on leetcode.
+I’m currently learning Rust.
 I’m also looking to collaborate on open source projects, lmk if you'd like my help!
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
